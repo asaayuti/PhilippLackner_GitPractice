@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         println("Second commit")
         println("local changes")
-        println("Change 2")
+        println("Change 3")
         println("THIS LINE WILL BE MERGED")
     }
 }
